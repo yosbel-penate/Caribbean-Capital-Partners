@@ -1,0 +1,62 @@
+{
+  "title": "Caribbean Capital Partners | Premium Investments in the Caribbean",
+  "nav": {
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Strategic Investments in the Caribbean",
+    "subtitle": "We connect Russian capital with high-yield opportunities in the Caribbean paradise. Real estate development, infrastructure, and sustainable projects.",
+    "button": "Contact Us Now"
+  },
+  "services": {
+    "title": "Our Services",
+    "real_estate": {
+      "title": "Real Estate Development",
+      "description": "Investments in resorts, luxury condominiums, and commercial properties in prime locations."
+    },
+    "maritime": {
+      "title": "Maritime Infrastructure",
+      "description": "Marinas, sports ports, and logistics projects to boost tourism and trade."
+    },
+    "sustainable": {
+      "title": "Sustainable Energy",
+      "description": "Solutions in solar, wind, and resource management for a green Caribbean."
+    }
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "We have developed over 50 projects in 10 Caribbean countries with an average ROI of 22% annually.",
+    "see_more": "View more exclusive offers",
+    "gallery": {
+      "project1": {
+        "title": "Oceanview Resorts",
+        "location": "Bahamas | ROI: 28%"
+      },
+      "project2": {
+        "title": "Blue Marina",
+        "location": "Dominican Republic | ROI: 19%"
+      },
+      "project3": {
+        "title": "Solar Caribe",
+        "location": "Jamaica | ROI: 25%"
+      }
+    }
+  },
+  "contact": {
+    "title": "Ready to Invest?",
+    "subtitle": "Our team in Moscow and the Caribbean is ready to advise you.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "interest": "Area of Interest",
+      "message": "Message",
+      "button": "Send Inquiry"
+    }
+  },
+  "footer": {
+    "copyright": "© 2023 Caribbean Capital Partners. All rights reserved.",
+    "offices": "Offices in Moscow, St. Petersburg, and Punta Cana."
+  }
+}

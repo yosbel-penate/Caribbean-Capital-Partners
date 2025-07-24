@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="title">Caribbean Capital Partners | Inversiones Premium en el Caribe</title>
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Font Awesome para íconos -->
+    <link rel="stylesheet" href="css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="logo">Caribbean Capital</div>
+        <nav>
+            <ul>
+                <li><a href="#servicios" data-i18n="nav.services">Servicios</a></li>
+                <li><a href="#proyectos" data-i18n="nav.projects">Proyectos</a></li>
+                <li><a href="#contacto" data-i18n="nav.contact">Contacto</a></li>
+            </ul>
+        </nav>
+        <div class="language-selector">
+            <button data-lang="en">EN</button>
+            <button data-lang="es">ES</button>
+            <button data-lang="ru">RU</button>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1 data-i18n="hero.title">Inversiones estratégicas en el Caribe</h1>
+        <p data-i18n="hero.subtitle">Conectamos capital ruso con oportunidades de alto rendimiento en el paraíso caribeño. Desarrollo inmobiliario, infraestructura y proyectos sostenibles.</p>
+        <a href="#contacto" class="btn" data-i18n="hero.button">Contactar ahora</a>
+    </section>
+
+    <!-- Sección Servicios -->
+    <section id="servicios" class="servicios">
+        <h2 data-i18n="services.title">Nuestros Servicios</h2>
+        <div class="grid-servicios">
+            <div class="card">
+                <i class="fas fa-building"></i>
+                <h3 data-i18n="services.real_estate.title">Desarrollo Inmobiliario</h3>
+                <p data-i18n="services.real_estate.description">Inversiones en resorts, condominios de lujo y propiedades comerciales en zonas privilegiadas.</p>
+            </div>
+            <div class="card">
+                <i class="fas fa-ship"></i>
+                <h3 data-i18n="services.maritime.title">Infraestructura Marítima</h3>
+                <p data-i18n="services.maritime.description">Puertos deportivos, marinas y proyectos logísticos para impulsar el turismo y comercio.</p>
+            </div>
+            <div class="card">
+                <i class="fas fa-leaf"></i>
+                <h3 data-i18n="services.sustainable.title">Energía Sostenible</h3>
+                <p data-i18n="services.sustainable.description">Soluciones en energía solar, eólica y gestión de recursos para un Caribe verde.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección Proyectos -->
+    <section id="proyectos" class="proyectos">
+        <h2 data-i18n="projects.title">Proyectos Destacados</h2>
+        <p class="subtitulo" data-i18n="projects.subtitle">Hemos desarrollado más de 50 proyectos en 10 países del Caribe con un retorno de inversión promedio del 22% anual.</p>
+        <div class="galeria">
+            <div class="proyecto">
+                <img src="img/resort.avif" alt="Resort Caribeño">
+                <div class="overlay">
+                    <h3 data-i18n="projects.gallery.project1.title">Oceanview Resorts</h3>
+                    <p data-i18n="projects.gallery.project1.location">Bahamas | ROI: 28%</p>
+                </div>
+            </div>
+            <div class="proyecto">
+                <img src="img/marine.avif" alt="Marina">
+                <div class="overlay">
+                    <h3 data-i18n="projects.gallery.project2.title">Blue Marina</h3>
+                    <p data-i18n="projects.gallery.project2.location">República Dominicana | ROI: 19%</p>
+                </div>
+            </div>
+            <div class="proyecto">
+                <img src="img/energy.avif" alt="Energía Solar">
+                <div class="overlay">
+                    <h3 data-i18n="projects.gallery.project3.title">Solar Caribe</h3>
+                    <p data-i18n="projects.gallery.project3.location">Jamaica | ROI: 25%</p>
+                </div>
+            </div>
+        </div>
+        <!-- Botón nuevo -->
+        <div class="contenedor-boton">
+            <a href="ofertas.html" class="btn">
+                <span data-i18n="projects.see_more">Ver más ofertas exclusivas</span>
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>
+    </section>
+
+    <!-- Sección Contacto -->
+    <section id="contacto" class="contacto">
+        <h2 data-i18n="contact.title">¿Listo para invertir?</h2>
+        <p data-i18n="contact.subtitle">Nuestro equipo en Moscú y el Caribe está listo para asesorarle.</p>
+        <form class="formulario">
+            <div class="form-group">
+                <label for="nombre" data-i18n="contact.form.name">Nombre</label>
+                <input type="text" id="nombre" required>
+            </div>
+            <div class="form-group">
+                <label for="email" data-i18n="contact.form.email">Correo Electrónico</label>
+                <input type="email" id="email" required>
+            </div>
+            <div class="form-group">
+                <label for="interes" data-i18n="contact.form.interest">Área de Interés</label>
+                <input type="text" id="interes">
+            </div>
+            <div class="form-group">
+                <label for="mensaje" data-i18n="contact.form.message">Mensaje</label>
+                <textarea id="mensaje" required></textarea>
+            </div>
+            <button type="submit" class="btn" data-i18n="contact.form.button">Enviar Consulta</button>
+        </form>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="redes-sociales">
+            <a href="#"><i class="fab fa-linkedin"></i></a>
+            <a href="#"><i class="fab fa-telegram"></i></a>
+            <a href="#"><i class="fab fa-whatsapp"></i></a>
+        </div>
+        <p data-i18n="footer.copyright">&copy; 2023 Caribbean Capital Partners. Todos los derechos reservados.</p>
+        <p data-i18n="footer.offices">Oficinas en Moscú, San Petersburgo y Punta Cana.</p>
+    </footer>
+
+    <script src="js/libs/i18next.min.js"></script>
+    <script src="js/libs/i18nextHttpBackend.min.js"></script>
+    <script src="js/libs/i18nextBrowserLanguageDetector.min.js"></script>
+
+    <script type="module" src="js/app.js"></script>
+
+</body>
+</html>

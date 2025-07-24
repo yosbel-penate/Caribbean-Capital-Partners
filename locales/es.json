@@ -1,0 +1,62 @@
+{
+  "title": "Caribbean Capital Partners | Inversiones Premium en el Caribe",
+  "nav": {
+    "services": "Servicios",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Inversiones estratégicas en el Caribe",
+    "subtitle": "Conectamos capital ruso con oportunidades de alto rendimiento en el paraíso caribeño. Desarrollo inmobiliario, infraestructura y proyectos sostenibles.",
+    "button": "Contactar ahora"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "real_estate": {
+      "title": "Desarrollo Inmobiliario",
+      "description": "Inversiones en resorts, condominios de lujo y propiedades comerciales en zonas privilegiadas."
+    },
+    "maritime": {
+      "title": "Infraestructura Marítima",
+      "description": "Puertos deportivos, marinas y proyectos logísticos para impulsar el turismo y comercio."
+    },
+    "sustainable": {
+      "title": "Energía Sostenible",
+      "description": "Soluciones en energía solar, eólica y gestión de recursos para un Caribe verde."
+    }
+  },
+  "projects": {
+    "title": "Proyectos Destacados",
+    "subtitle": "Hemos desarrollado más de 50 proyectos en 10 países del Caribe con un retorno de inversión promedio del 22% anual.",
+    "see_more": "Ver más ofertas exclusivas",
+    "gallery": {
+      "project1": {
+        "title": "Oceanview Resorts",
+        "location": "Bahamas | ROI: 28%"
+      },
+      "project2": {
+        "title": "Blue Marina",
+        "location": "República Dominicana | ROI: 19%"
+      },
+      "project3": {
+        "title": "Solar Caribe",
+        "location": "Jamaica | ROI: 25%"
+      }
+    }
+  },
+  "contact": {
+    "title": "¿Listo para invertir?",
+    "subtitle": "Nuestro equipo en Moscú y el Caribe está listo para asesorarle.",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo Electrónico",
+      "interest": "Área de Interés",
+      "message": "Mensaje",
+      "button": "Enviar Consulta"
+    }
+  },
+  "footer": {
+    "copyright": "© 2023 Caribbean Capital Partners. Todos los derechos reservados.",
+    "offices": "Oficinas en Moscú, San Petersburgo y Punta Cana."
+  }
+}
