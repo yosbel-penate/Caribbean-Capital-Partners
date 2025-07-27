@@ -58,5 +58,59 @@
   "footer": {
     "copyright": "© 2023 Caribbean Capital Partners. Todos los derechos reservados.",
     "offices": "Oficinas en Moscú, San Petersburgo y Punta Cana."
+  },
+  "offers": {
+    "mission": {
+      "title": "Nuestra Misión",
+      "text": "Conectar capital internacional con oportunidades sostenibles y de alto rendimiento en el Caribe, fomentando el crecimiento, la innovación y la prosperidad para todos los involucrados."
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "text": "Ser el grupo de inversión líder en el Caribe, reconocido por excelencia, transparencia e impacto en proyectos inmobiliarios, de infraestructura y energía sostenible."
+    },
+    "title": "Ofertas Exclusivas",
+    "subtitle": "Descubre nuestras 10 principales oportunidades de inversión y servicios especializados.",
+    "cards": {
+      "1": {
+        "title": "Asesoría Estratégica y Viabilidad de Proyectos",
+        "text": "Análisis de mercado, estudios de viabilidad y planificación estratégica para proyectos de alto impacto."
+      },
+      "2": {
+        "title": "Consultoría Jurídica Internacional",
+        "text": "Estructuración legal, cumplimiento y soporte para operaciones e inversiones internacionales."
+      },
+      "3": {
+        "title": "Diseño y Gestión de Proyectos",
+        "text": "Gestión integral de proyectos, planificación de despliegue y optimización de la cadena de suministro."
+      },
+      "4": {
+        "title": "Desarrollo Turístico",
+        "text": "Conceptos innovadores, estrategias de marketing y consultoría en gobernanza para proyectos turísticos."
+      },
+      "5": {
+        "title": "Consultoría en Construcción",
+        "text": "Asesoría técnica, ingeniería de costes y auditorías de calidad para proyectos de construcción."
+      },
+      "6": {
+        "title": "Proyectos Energéticos (Solar y Nuclear)",
+        "text": "Consultoría especializada, estudios de viabilidad e ingeniería para energía renovable y nuclear."
+      },
+      "7": {
+        "title": "Tecnología y Transformación Digital",
+        "text": "Estrategia, gestión de proyectos e innovación para proyectos digitales y de TI."
+      },
+      "8": {
+        "title": "Gestión de Riesgos y Cumplimiento",
+        "text": "Análisis integral de riesgos, planes de contingencia y due diligence para inversiones seguras."
+      },
+      "9": {
+        "title": "Estudios Geopolíticos y Geoeconómicos",
+        "text": "Análisis del entorno político y económico para decisiones de inversión informadas."
+      },
+      "10": {
+        "title": "Soporte en Permisos y Licencias",
+        "text": "Gestión integral de documentación y permisos para operaciones internacionales."
+      }
+    }
   }
 }

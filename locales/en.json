@@ -58,5 +58,59 @@
   "footer": {
     "copyright": "© 2023 Caribbean Capital Partners. All rights reserved.",
     "offices": "Offices in Moscow, St. Petersburg, and Punta Cana."
+  },
+  "offers": {
+    "mission": {
+      "title": "Our Mission",
+      "text": "To connect international capital with high-yield, sustainable opportunities in the Caribbean, fostering growth, innovation, and prosperity for all stakeholders."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "text": "To be the leading investment group in the Caribbean, recognized for excellence, transparency, and impact in real estate, infrastructure, and sustainable energy projects."
+    },
+    "title": "Exclusive Offers",
+    "subtitle": "Discover our top 10 investment opportunities and specialized services.",
+    "cards": {
+      "1": {
+        "title": "Strategic Advisory & Project Feasibility",
+        "text": "Comprehensive market analysis, feasibility studies, and strategic planning for high-impact projects."
+      },
+      "2": {
+        "title": "International Legal Consulting",
+        "text": "Legal structuring, compliance, and support for cross-border operations and investments."
+      },
+      "3": {
+        "title": "Project Design & Management",
+        "text": "End-to-end project management, deployment planning, and supply chain optimization."
+      },
+      "4": {
+        "title": "Tourism Development",
+        "text": "Innovative concepts, marketing strategies, and governance consulting for tourism projects."
+      },
+      "5": {
+        "title": "Construction Consulting",
+        "text": "Technical advisory, cost engineering, and quality audits for construction projects."
+      },
+      "6": {
+        "title": "Energy Projects (Solar & Nuclear)",
+        "text": "Specialized consulting, feasibility studies, and engineering for renewable and nuclear energy."
+      },
+      "7": {
+        "title": "Technology & Digital Transformation",
+        "text": "Strategy, project management, and innovation for digital and IT projects."
+      },
+      "8": {
+        "title": "Risk Management & Compliance",
+        "text": "Comprehensive risk analysis, contingency planning, and due diligence for secure investments."
+      },
+      "9": {
+        "title": "Geopolitical & Geoeconomic Studies",
+        "text": "Political and economic environment analysis for informed investment decisions."
+      },
+      "10": {
+        "title": "Permits & Licensing Support",
+        "text": "End-to-end management of documentation and permits for international operations."
+      }
+    }
   }
 }
